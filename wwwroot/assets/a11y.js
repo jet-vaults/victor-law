@@ -78,8 +78,7 @@
   root.innerHTML =
     '<button id="jv-a11y-toggle" type="button" aria-expanded="false" aria-controls="jv-a11y-panel" aria-label="תפריט נגישות">' +
       '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">' +
-        '<circle cx="12" cy="4.5" r="2.2"/>' +
-        '<path d="M12 8c-2.8 0-5.1-.5-6.9-1l-.5 1.9c1.6.5 3.4.8 5.4 1v3.2l-2.4 7.2 1.9.7 2.2-6.5h.6l2.2 6.5 1.9-.7-2.4-7.2v-3.2c2-.2 3.8-.5 5.4-1L18.9 7c-1.8.5-4.1 1-6.9 1z"/>' +
+        '<path d="M12 2c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2zm9 7h-6v13h-2v-6h-2v6H9V9H3V7h18v2z"/>' +
       '</svg>' +
     '</button>' +
     '<div id="jv-a11y-panel" role="dialog" aria-label="הגדרות נגישות" hidden>' +
