@@ -12,7 +12,7 @@
 | **Private storage** | `https://jetvaults.blob.core.windows.net/victor-law-private/` |
 | **Public container** | `victor-law` |
 | **Private container** | `victor-law-private` |
-| **Activated** | No |
+| **Activated** | Yes |
 
 ## Nameservers
 
