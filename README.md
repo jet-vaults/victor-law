@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Domain** | `https://victor-vos.co.il` |
+| **Domain** | `https://victor-law.co.il` |
 | **Pages URL** | `https://victor-law.pages.dev` |
 | **Storage mode** | `Standard` (`standard`) |
 | **Storage account** | `jetvaults` |
